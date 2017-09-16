@@ -1,1 +1,20 @@
+/* start general elements */
+body{
+    
+    background-color: #000;
+    margin:0;
+    padding:0;
+}
 
+/* start the index page login page */
+.login{
+    
+    margin-top: 268px;
+    margin-left: -127px
+}
+.username-label{
+    
+    color: #fff;
+    margin-left: 224px;
+    margin-top: 9px;
+}
